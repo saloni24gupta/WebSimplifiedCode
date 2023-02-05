@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.container {
+    margin: 0;
+
+}
+.nav {
+display: inline;
+background-color: red;
+/* background-image: url('C:\Users\marshal\OneDrive\Desktop\websimplifiedcode\WebSimplifiedCode\download.jpg');  */
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+.main-header {
+    background-image: url();
+}
